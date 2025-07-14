@@ -1,5 +1,5 @@
 # LinkedList-Singly
-#Singly Linked List Implementation in Java
+# Singly Linked List Implementation in Java
 This project contains a simple implementation of a singly linked list in Java with basic operations such as insertion, deletion, and display.
 
 Features
